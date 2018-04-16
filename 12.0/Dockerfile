@@ -1,6 +1,6 @@
 # Plesk 12.0 container
 
-FROM ubuntu:14.04
+FROM ubuntu:16.04
 
 MAINTAINER plesk-dev-leads@plesk.com
 
